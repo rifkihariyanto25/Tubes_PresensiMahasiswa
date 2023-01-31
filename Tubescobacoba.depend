@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1674542404 source:d:\kuliah\semester 1\algoritma dan pemrograman\tugas besar\tubescobacoba\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
